@@ -1,0 +1,7 @@
+li a {
+    color: orange;		#change_the_colour_of_the_text
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;	#add_background_image
+}
